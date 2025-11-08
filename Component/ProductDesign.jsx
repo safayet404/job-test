@@ -83,7 +83,7 @@ const ProductDesign = ({
                     : " h-[161px]"
                 }  rounded-lg rounded-b-none mx-auto`}
                 src={product.image}
-                alt="card navigate ui"
+                alt="card navigate uuid"
               />
             </figure>
             <div className={`card-body bg-[#F7F8F8] justify-between p-5 ${
