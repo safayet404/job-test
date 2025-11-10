@@ -106,7 +106,7 @@ const ProductDesign = ({
                   </h1>
                   <button
                     onClick={() => HandleCarts(product)}
-                    className="btn bg-black py-[6px] px-3 font-normal text-white text-base h-fit"
+                    className="btn bg-black py-[6px] px-3 font-bold text-white text-base h-fit"
                   >
                     Add to cart
                   </button>
